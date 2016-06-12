@@ -1,0 +1,5 @@
+*.m~
+*.mexmaci64
+*.nfs*
+/figs
+/images
